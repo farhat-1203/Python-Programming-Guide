@@ -1,0 +1,3 @@
+Hello, my name is Farhat 
+I am learning Python from Harry
+It's really fun learning from him, I'm enjoying a lot
